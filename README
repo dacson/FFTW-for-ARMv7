@@ -1,3 +1,8 @@
+This is a port of FFTW 3.2.2 to the ARMv7 architecture, adding NEON SIMD 
+support. See www.vesperix.com/arm/fftw-arm for details.
+
+--------------------------------------------------------
+
 FFTW is a free collection of fast C routines for computing the
 Discrete Fourier Transform in one or more dimensions.  It includes
 complex, real, symmetric, and parallel transforms, and can handle
